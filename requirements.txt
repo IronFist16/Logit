@@ -20,7 +20,7 @@ html5lib==0.999
 httplib2==0.8
 invoke==0.12.2
 itsdangerous==0.24
-Jinja2==2.8
+Jinja2==2.11.3
 lockfile==0.8
 lxml==3.3.3
 MarkupSafe==0.23
